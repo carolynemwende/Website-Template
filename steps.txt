@@ -1,0 +1,12 @@
+things to note when settin a site using the template
+
+steps
+1.npm install
+2.gulp dev:install---done in the project root
+3.cd src folder 
+   .cd src/
+   .gem install bundler
+   .bundle install
+
+4.npm install -g gulp--this one helps set gulp locally in the project
+has a contradiction with gulp dev:install but ill figure out which is which.
